@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1013871756096",
+    "firebase_url": "https://mylogin-d8913.firebaseio.com",
+    "project_id": "mylogin-d8913",
+    "storage_bucket": "mylogin-d8913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013871756096:android:65f57d92f35ef329",
+        "android_client_info": {
+          "package_name": "com.MyGym.MyGymRegister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013871756096-9mt7sp0622eqq1atpaud1u67hkp7dlnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUMHx0yP7ZAnBY9GtX9pHNKmT8Zs6JYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013871756096:android:3bea77e616977241",
+        "android_client_info": {
+          "package_name": "com.mygymbelgrade.mygym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013871756096-4ecls5pv3eod9g7kacef5gq781k1vhsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygymbelgrade.mygym",
+            "certificate_hash": "6530d30981fe499a20245b7094e11c49df0f46dc"
+          }
+        },
+        {
+          "client_id": "1013871756096-9mt7sp0622eqq1atpaud1u67hkp7dlnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUMHx0yP7ZAnBY9GtX9pHNKmT8Zs6JYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013871756096-9mt7sp0622eqq1atpaud1u67hkp7dlnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
